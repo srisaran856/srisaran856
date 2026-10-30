@@ -8,5 +8,5 @@
 ---
 
 ### 📫 Let's Connect!
-- 💼 **LinkedIn:** [saran-b-data-analyst](https://www.linkedin.com/in/saran-b-data-analyst)
+- 💼 **LinkedIn:** (https://www.linkedin.com/in/saran-b-data-analyst)
 - 📧 **Email:** srisaran856@gmail.com
