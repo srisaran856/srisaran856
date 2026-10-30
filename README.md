@@ -23,5 +23,5 @@
 ---
 
 ### 📫 Let's Connect!
-- 💼 **LinkedIn:** https://www.linkedin.com/in/saran-b-data-analyst[cite: 1]
-- 📧 **Email:** srisaran856@gmail.com[cite: 1]
+- 💼 **LinkedIn:** https://www.linkedin.com/in/saran-b-data-analyst
+- 📧 **Email:** srisaran856@gmail.com
