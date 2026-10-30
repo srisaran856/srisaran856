@@ -2,8 +2,8 @@
 ### B.Tech IT Student & Aspiring Data Analyst[cite: 1]
 
 - 📊 **Skills:** SQL, MS Excel, Power BI, Tableau, Python (Learning)
-- 💼 **Experience:** Data Analytics Intern at Why Global Services
 - 🚀 **Projects:** Sales & Profit Analysis (Power BI) | E-Commerce Sales Dashboard (Excel)
+- 🎓 **Education:** B.Tech IT at Mohamed Sathak Engineering College (CGPA: 8.09)
 
 ---
 
